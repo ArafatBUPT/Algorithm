@@ -1,5 +1,4 @@
 #include <iostream>
-#include "stdlib.h"
 using namespace std;
 
 void BubbleSort(int arr[],int n){
@@ -112,31 +111,8 @@ void quickSort(int arr[],int l,int r){
     quickSort(arr,l,p-1);
     quickSort(arr,p+1,r);
 }
-void quickSort(int arr[],int n){
-    quickSort(arr,0,n-1);
-}
-
-
-
-
-
-
 
 
 
 int main() {
-
-    int arr[10];
-    for (int i = 0; i < 10; ++i) {
-        arr[i]=rand()%10+1;
-    }
-    //BubbleSort(arr,10);
-    //SelectionSort(arr,10);
-    //InsertionSort(arr,10);
-    //mergeSort(arr,10);
-    quickSort(arr,10);
-    for (int j = 0; j < 10; ++j) {
-        cout<<arr[j]<<' ';
-    }
-    return 0;
 }
