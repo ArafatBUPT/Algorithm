@@ -89,14 +89,17 @@ void mergeSort(int arr[],int n){
 }
 
 int partition(int arr[],int l,int r){
+    // 第一个元素设置成比较元素 j指向第一个位置
     int v = arr[l];
     int j=l;
     for (int i = l+1; i <=r ; ++i) {
+        // i 位置的元素小于当前比较的v j前面的元素和i替换
         if (arr[i] < v) {
             swap(arr[j + 1], arr[i]);
             j++;
         }
     }
+    //最后 第一位置和j交换
     swap(arr[l],arr[j]);
     return j;
 }
@@ -104,6 +107,7 @@ void quickSort(int arr[],int l,int r){
     if(l>=r)
         return;
 
+    //p 分成两部分
     int p = partition(arr,l,r);
     quickSort(arr,l,p-1);
     quickSort(arr,p+1,r);
