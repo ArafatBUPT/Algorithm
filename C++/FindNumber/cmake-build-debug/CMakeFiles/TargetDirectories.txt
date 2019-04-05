@@ -1,3 +1,0 @@
-F:/Git/C++/FindNumber/cmake-build-debug/CMakeFiles/FindNumber.dir
-F:/Git/C++/FindNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Git/C++/FindNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\FindNumber.dir/objects.a
-D:\MinGW\bin\ar.exe cr CMakeFiles\FindNumber.dir/objects.a @CMakeFiles\FindNumber.dir\objects1.rsp
-D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\FindNumber.dir/objects.a -Wl,--no-whole-archive  -o FindNumber.exe -Wl,--out-implib,libFindNumber.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FindNumber.dir\linklibs.rsp
