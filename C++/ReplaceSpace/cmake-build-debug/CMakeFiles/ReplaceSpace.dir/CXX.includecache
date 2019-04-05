@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Git/Algorithms/C++/ReplaceSpace/main.cpp
+iostream
+-
+string.h
+F:/Git/Algorithms/C++/ReplaceSpace/string.h
+
