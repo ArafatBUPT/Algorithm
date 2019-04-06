@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\rectCover.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\rectCover.dir/objects.a @CMakeFiles\rectCover.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\rectCover.dir/objects.a -Wl,--no-whole-archive  -o rectCover.exe -Wl,--out-implib,librectCover.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rectCover.dir\linklibs.rsp
