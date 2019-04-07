@@ -11,13 +11,10 @@ public:
         vector<int> memo(number+1,-1);
         memo[1]=1;
         memo[2]=2;
+        //记忆化搜索 类似斐波那契数
         for (int i = 3; i <=number ; ++i) {
             memo[i]=memo[i-1]+memo[i-2];
         }
         return memo[number];
     }
 };
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}

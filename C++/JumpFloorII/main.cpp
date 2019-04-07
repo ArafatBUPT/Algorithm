@@ -8,6 +8,8 @@ public:
         if(!number){
             return 0;
         }
+        //下一次是前一次的倍数
+        //记忆化搜索
         vector<int> memo(number+1,-1);
         memo[1]=1;
 
@@ -19,7 +21,3 @@ public:
 };
 
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}

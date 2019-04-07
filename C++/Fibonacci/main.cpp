@@ -9,6 +9,7 @@ public:
         if(!n){
             return 0;
         }
+        //记忆化搜索
         vector<int> memo(n+1,-1);
         memo[1]=1;
         memo[2]=1;
@@ -19,7 +20,3 @@ public:
     }
 };
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}

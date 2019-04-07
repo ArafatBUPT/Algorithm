@@ -21,17 +21,22 @@ public:
             return pListHead;
         }
 
+        //快慢指针 count记录两个指针的距离 也就是K的值
+
         ListNode* fast=pListHead;
         ListNode* slow=pListHead;
         int count=1;
 
 
+        //count等于K开始 慢指针开始走
         while (fast->next!=NULL){
             if (count>=k){
                 slow=slow->next;
             }
             fast=fast->next;
             count++;
+
+            //如果快指针到最后一位，K的值比链表元素多 返回NULL
             if (fast->next==NULL && count<k)
                 return NULL;
         }
@@ -39,7 +44,3 @@ public:
         return slow;
     }
 };
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}

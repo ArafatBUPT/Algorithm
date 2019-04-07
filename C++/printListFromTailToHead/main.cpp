@@ -19,12 +19,14 @@ public:
         if(head==NULL)
             return res;
         stack<int> stack;
+        //遍历一遍 每次把元素存储到栈里
         ListNode* node=head;
         while (node!=NULL){
             stack.push(node->val);
             node=node->next;
         }
         int n=0;
+        //从栈弹出并保存到res
         while (!stack.empty()){
             n=stack.top();
             res.push_back(n);
@@ -34,9 +36,3 @@ public:
     }
 };
 
-
-
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}

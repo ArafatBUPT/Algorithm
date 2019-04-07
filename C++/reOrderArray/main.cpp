@@ -10,7 +10,11 @@ public:
             return;
 
         queue<int> even;
+        //把偶数都存到even队列中
         vector<int>::iterator cur;
+        /* 每次遍历到偶数 存到even并且删除该元素
+        注意使用erase函数 迭代器返回被删除元素的下一位置
+        所以不用cur++*/
         for (cur=array.begin();cur!=array.end();) {
             if (!(*cur%2)){
                 even.push(*cur);
@@ -19,15 +23,10 @@ public:
             else
                 cur++;
         }
-
+        //把队列中的元素依次添加到原vector
         while (!even.empty()){
             array.push_back(even.front());
             even.pop();
         }
     }
 };
-
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}

@@ -8,6 +8,7 @@ public:
         if(!number){
             return 0;
         }
+        //记忆化搜素
         vector<int> memo(number+1,-1);
         memo[1]=1;
         memo[2]=2;
@@ -17,7 +18,3 @@ public:
         return memo[number];
     }
 };
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
