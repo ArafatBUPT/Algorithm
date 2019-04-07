@@ -1,0 +1,3 @@
+F:/test/C++/ReverseList/cmake-build-debug/CMakeFiles/ReverseList.dir
+F:/test/C++/ReverseList/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/test/C++/ReverseList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
