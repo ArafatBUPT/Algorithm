@@ -24,7 +24,7 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="PrintFromTopToBottom" targetName="PrintFromTopToBottom" />
+      <config projectName="VerifySquenceOfBST" targetName="VerifySquenceOfBST" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -33,7 +33,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42966a78-74f5-4cda-ba1d-606256417a18" name="Default Changelist" comment="">
+    <list default="true" id="8081afee-8bc8-40b8-946b-c0997318153d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Mirror/.idea/Mirror.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Mirror/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Mirror/.idea/modules.xml" afterDir="false" />
@@ -64,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="20" column="4" lean-forward="true" selection-start-line="15" selection-end-line="41" selection-end-column="2" />
+            <state relative-caret-position="240">
+              <caret line="10" column="4" selection-start-line="5" selection-end-line="32" selection-end-column="2" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -88,10 +88,7 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/PrintFromTopToBottom.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -107,8 +104,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,7 +127,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="PrintFromTopToBottom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PrintFromTopToBottom" TARGET_NAME="PrintFromTopToBottom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PrintFromTopToBottom" RUN_TARGET_NAME="PrintFromTopToBottom">
+    <configuration name="VerifySquenceOfBST" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="VerifySquenceOfBST" TARGET_NAME="VerifySquenceOfBST" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="VerifySquenceOfBST" RUN_TARGET_NAME="VerifySquenceOfBST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -141,24 +138,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="42966a78-74f5-4cda-ba1d-606256417a18" name="Default Changelist" comment="" />
-      <created>1554708678841</created>
+      <changelist id="8081afee-8bc8-40b8-946b-c0997318153d" name="Default Changelist" comment="" />
+      <created>1554711275952</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554708678841</updated>
-      <workItem from="1554708680233" duration="1497000" />
+      <updated>1554711275952</updated>
+      <workItem from="1554711277325" duration="2142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1497000" />
+    <option name="totallyTimeSpent" value="2142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="880" y="1" width="1171" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24932493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12601261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -188,8 +185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="15" selection-end-line="41" selection-end-column="2" />
+        <state relative-caret-position="240">
+          <caret line="10" column="4" selection-start-line="5" selection-end-line="32" selection-end-column="2" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
