@@ -1,0 +1,3 @@
+F:/test/C++/Mirror/cmake-build-debug/CMakeFiles/Mirror.dir
+F:/test/C++/Mirror/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/test/C++/Mirror/cmake-build-debug/CMakeFiles/rebuild_cache.dir
