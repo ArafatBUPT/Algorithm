@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\PrintFromTopToBottom.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\PrintFromTopToBottom.dir/objects.a @CMakeFiles\PrintFromTopToBottom.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PrintFromTopToBottom.dir/objects.a -Wl,--no-whole-archive  -o PrintFromTopToBottom.exe -Wl,--out-implib,libPrintFromTopToBottom.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PrintFromTopToBottom.dir\linklibs.rsp
