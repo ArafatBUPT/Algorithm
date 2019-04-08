@@ -1,0 +1,3 @@
+F:/test/C++/HasSubtree/cmake-build-debug/CMakeFiles/HasSubtree.dir
+F:/test/C++/HasSubtree/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/test/C++/HasSubtree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
