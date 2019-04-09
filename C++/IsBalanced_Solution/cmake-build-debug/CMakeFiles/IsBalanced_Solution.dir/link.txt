@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\IsBalanced_Solution.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\IsBalanced_Solution.dir/objects.a @CMakeFiles\IsBalanced_Solution.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\IsBalanced_Solution.dir/objects.a -Wl,--no-whole-archive  -o IsBalanced_Solution.exe -Wl,--out-implib,libIsBalanced_Solution.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\IsBalanced_Solution.dir\linklibs.rsp
