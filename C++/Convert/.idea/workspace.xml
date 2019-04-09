@@ -24,7 +24,7 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="FindPath" targetName="FindPath" />
+      <config projectName="Convert" targetName="Convert" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -33,7 +33,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dabeb6e-62fb-455f-b6ff-bb86b504a889" name="Default Changelist" comment="">
+    <list default="true" id="25b8cb41-673c-4a06-b769-2b819d449aa7" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Mirror/.idea/Mirror.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Mirror/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Mirror/.idea/modules.xml" afterDir="false" />
@@ -64,11 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -88,16 +85,14 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/FindPath.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="765" />
-    <option name="width" value="1162" />
+    <option name="x" value="715" />
+    <option name="y" value="13" />
+    <option name="width" value="1171" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -112,6 +107,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -129,7 +127,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="FindPath" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FindPath" TARGET_NAME="FindPath" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FindPath" RUN_TARGET_NAME="FindPath">
+    <configuration name="Convert" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Convert" TARGET_NAME="Convert" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Convert" RUN_TARGET_NAME="Convert">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -140,31 +138,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1dabeb6e-62fb-455f-b6ff-bb86b504a889" name="Default Changelist" comment="" />
-      <created>1554777429399</created>
+      <changelist id="25b8cb41-673c-4a06-b769-2b819d449aa7" name="Default Changelist" comment="" />
+      <created>1554785287344</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554777429399</updated>
-      <workItem from="1554777431341" duration="5247000" />
+      <updated>1554785287344</updated>
+      <workItem from="1554785288911" duration="3503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5247000" />
+    <option name="totallyTimeSpent" value="3503000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="765" y="0" width="1162" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="715" y="13" width="1171" height="1047" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1215971" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24932493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="TeamCity" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -187,11 +184,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
         </state>
       </provider>
     </entry>

@@ -25,7 +25,7 @@ private:
             return;
         }
         if(node->val<num)
-            //每次递归 减去该节点的值 再向下传递 
+            //每次递归 减去该节点的值 再向下传递
             vec.push_back(node->val);
 
         find(node->left,num-node->val,vec,res);
