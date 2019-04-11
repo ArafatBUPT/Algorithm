@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/test/C++/Serialize/main.cpp
+iostream
+-
+string
+F:/test/C++/Serialize/string
+string.h
+F:/test/C++/Serialize/string.h
+
