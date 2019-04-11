@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/test/C++/PrintTree/main.cpp
+iostream
+-
+vector
+F:/test/C++/PrintTree/vector
+stack
+F:/test/C++/PrintTree/stack
+

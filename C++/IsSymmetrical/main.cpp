@@ -14,7 +14,7 @@ class Solution {
 private:
     bool isSymmetrical(TreeNode* left,TreeNode* right){
 
-        //判断左右节点值是否相等 如果左空 判断右是不是也为空 空返回true  左非空 右空 false 
+        //判断左右节点值是否相等 如果左空 判断右是不是也为空 空返回true  左非空 右空 false
         if(left== nullptr)
             return right== nullptr;
         if(right== nullptr)
