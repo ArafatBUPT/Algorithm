@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/test/C++/PrintII/main.cpp
+iostream
+-
+vector
+F:/test/C++/PrintII/vector
+queue
+F:/test/C++/PrintII/queue
+
