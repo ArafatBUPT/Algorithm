@@ -24,7 +24,7 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Serialize" targetName="Serialize" />
+      <config projectName="KthNodeBST" targetName="KthNodeBST" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -33,7 +33,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29eab4ad-eb73-4b0f-8a3e-19a92438557b" name="Default Changelist" comment="">
+    <list default="true" id="2b99d971-bcb2-4ca6-afbd-658ac10b097c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Mirror/.idea/Mirror.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Mirror/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Mirror/.idea/modules.xml" afterDir="false" />
@@ -42,10 +42,10 @@
       <change afterPath="$PROJECT_DIR$/../PrintII/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PrintII/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PrintII/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Serialize.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialize/.idea/Serialize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialize/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialize/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialize/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../minNumberInRotateArray/.idea/minNumberInRotateArray.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../minNumberInRotateArray/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../minNumberInRotateArray/.idea/modules.xml" afterDir="false" />
@@ -63,7 +63,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -72,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="672">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -90,6 +90,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/KthNodeBST.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -110,11 +120,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -130,7 +138,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Serialize" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Serialize" TARGET_NAME="Serialize" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Serialize" RUN_TARGET_NAME="Serialize">
+    <configuration name="KthNodeBST" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="KthNodeBST" TARGET_NAME="KthNodeBST" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="KthNodeBST" RUN_TARGET_NAME="KthNodeBST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -141,44 +149,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="29eab4ad-eb73-4b0f-8a3e-19a92438557b" name="Default Changelist" comment="" />
-      <created>1554973597107</created>
+      <changelist id="2b99d971-bcb2-4ca6-afbd-658ac10b097c" name="Default Changelist" comment="" />
+      <created>1554982737227</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554973597107</updated>
-      <workItem from="1554973599200" duration="6054000" />
-      <workItem from="1554982714972" duration="21000" />
+      <updated>1554982737227</updated>
+      <workItem from="1554982739295" duration="2141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6075000" />
+    <option name="totallyTimeSpent" value="2141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="TeamCity" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="TeamCity" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="CMake" order="13" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,8 +195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="672">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
