@@ -41,7 +41,7 @@ public:
         string p;
         used = vector<bool>(str.length(), false);//初始化 used
         generatePermutation(str,0,p,res);
-        set<string> s(res.begin(),res.end());//去掉重复答案 
+        set<string> s(res.begin(),res.end());//去掉重复答案
         vector<string> result(s.begin(),s.end());
         return result;
     }

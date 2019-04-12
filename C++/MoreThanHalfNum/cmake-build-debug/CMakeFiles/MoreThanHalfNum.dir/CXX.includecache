@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/test/C++/MoreThanHalfNum/main.cpp
+iostream
+-
+map
+F:/test/C++/MoreThanHalfNum/map
+vector
+F:/test/C++/MoreThanHalfNum/vector
+

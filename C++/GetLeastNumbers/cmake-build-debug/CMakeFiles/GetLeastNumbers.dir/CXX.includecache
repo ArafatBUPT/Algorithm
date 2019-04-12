@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/test/C++/GetLeastNumbers/main.cpp
+iostream
+-
+vector
+F:/test/C++/GetLeastNumbers/vector
+set
+F:/test/C++/GetLeastNumbers/set
+
