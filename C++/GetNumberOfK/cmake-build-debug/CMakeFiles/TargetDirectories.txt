@@ -1,0 +1,3 @@
+F:/test/C++/GetNumberOfK/cmake-build-debug/CMakeFiles/GetNumberOfK.dir
+F:/test/C++/GetNumberOfK/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/test/C++/GetNumberOfK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
